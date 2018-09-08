@@ -6,4 +6,7 @@ url: "https://t.me/FillsAlertBot"
 github:
   is_project_page: false
 
+bot:
+  url: "tg://resolve?domain=FillsAlertBot"
+
 theme: jekyll-theme-cayman
