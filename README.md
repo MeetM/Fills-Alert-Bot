@@ -9,4 +9,6 @@
 
 ### Support or Contact
 
-Email us at fills_alert [at] protonmail.com for any problem or suggestion
+Email us at fills_alert [at] protonmail.com for any problem or suggestion.
+
+You can also follow us on twitter at [@fills_alert](https://twitter.com/fills_alert)
