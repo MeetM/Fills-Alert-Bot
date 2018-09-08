@@ -1,4 +1,4 @@
-## Privacy 
+### Privacy 
 
 - We do not store any personally identifiable information. 
 - We ask for "view" only API access. If you accidentaly give us API details with "trade" access, we will reject it.
