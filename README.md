@@ -1,3 +1,5 @@
+### PS - Only supports Coinbase Pro currently. More exchanges coming soon.
+
 ### Privacy 
 
 - We do not store any personally identifiable information. 
