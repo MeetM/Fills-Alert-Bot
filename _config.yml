@@ -3,6 +3,8 @@ description: "Alerts you on Telegram whenever your trade order gets filled/execu
 email: fills_alert@protonmail.com
 url: "https://t.me/FillsAlertBot"
 
+google_analytics: "UA-125411120-1"
+
 github:
   is_project_page: false
 
