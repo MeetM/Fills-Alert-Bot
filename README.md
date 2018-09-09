@@ -1,3 +1,5 @@
+## Crypto Fills Alert Bot
+
 ### PS - Only supports Coinbase Pro currently. More exchanges coming soon.
 
 ### Privacy 
