@@ -1,7 +1,12 @@
+---
+youtubeId: URB3HmduDhA
+--_
+
+
 ## Crypto Fills Alert Bot
 
 ### Setup Demo
-{% include youtubePlayer.html id=URB3HmduDhA %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 ### PS - Only supports Coinbase Pro currently. More exchanges coming soon.
 
