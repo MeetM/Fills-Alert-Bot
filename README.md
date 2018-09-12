@@ -1,7 +1,7 @@
 ## Crypto Fills Alert Bot
 
 ### Setup Demo
-<iframe width="720" height="415" src="https://www.youtube.com/embed/URB3HmduDhA" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="415" src="https://www.youtube.com/embed/URB3HmduDhA&mute=1" frameborder="0" allowfullscreen></iframe>
 
 ### PS - Only supports Coinbase Pro currently. More exchanges coming soon.
 
