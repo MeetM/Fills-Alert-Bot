@@ -1,6 +1,7 @@
 ## Crypto Fills Alert Bot
+No need to keep separate price alerts for your crypto trades!
 
-![Fills Alert Bot](demoimg.png)
+![Fills Alert Bot](demoimg.png){:class="img-responsive"}
 
 ### Setup Demo
 <iframe width="720" height="415" src="https://www.youtube.com/embed/URB3HmduDhA?mute=1" frameborder="0" allowfullscreen></iframe>
