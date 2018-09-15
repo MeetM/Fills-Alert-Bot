@@ -11,6 +11,7 @@
 - We ask for "view" only API access. If you accidentaly give us API details with "trade" access, we will reject it.
 - We do not and will not sell any information you give us to any third party.
 - You can ask the bot to remove the API details and stop the alerts anytime.
+- The bot will never suggest or recommend you to make any trades (No pump and dump)
 
 ### Support or Contact
 
