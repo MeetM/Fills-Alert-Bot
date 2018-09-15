@@ -1,5 +1,7 @@
 ## Crypto Fills Alert Bot
 
+![Fills Alert Bot](demoimg.png)
+
 ### Setup Demo
 <iframe width="720" height="415" src="https://www.youtube.com/embed/URB3HmduDhA?mute=1" frameborder="0" allowfullscreen></iframe>
 
