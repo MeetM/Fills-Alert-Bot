@@ -19,6 +19,7 @@ No need to keep separate price alerts for your crypto trades 😎. I will alert 
 
 ### Support or Contact
 
-Email us at fills_alert [at] protonmail.com for any problem or suggestion.
+You can contact me directly on telegram @hrdwrknvrstps
 
-You can also follow us on twitter at [@fills_alert](https://twitter.com/fills_alert)
+### Tip
+<div class="tip-button"></div>
