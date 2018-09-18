@@ -18,3 +18,7 @@ tipButton.addEventListener('click', function() {
     renderMessage('Thanks!')
   })
 })
+
+function renderMessage(msg) {
+  alert(msg);
+}
