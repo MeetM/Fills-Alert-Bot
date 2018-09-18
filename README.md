@@ -6,7 +6,7 @@ No need to keep separate price alerts for your crypto trades 😎. We will alert
 ### Setup Instructions and Demo
 **We are only requesting view permissions. This does not give us access to your private keys nor the ability move your funds.**
 
-This is a just one-time, 2 min setup procedure 🤓
+This is just a one-time, 2 min setup procedure 🤓
 
 To allow us to send you alerts on your CoinbasePro trades, you will need to generate and provide us with API key:
 1. Start API input process using /coinbase_pro_api or the Add API button on the [@FillsAlertBot telegram bot](tg://resolve?domain=FillsAlertBot). The bot will wait for you to enter the passphrase
