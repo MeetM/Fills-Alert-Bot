@@ -22,4 +22,4 @@ No need to keep separate price alerts for your crypto trades 😎. I will alert 
 You can contact me directly on telegram @hrdwrknvrstps
 
 ### Tip
-<a class="tip-button" href="#">Tip with Metamask</a>
+<a class="tip-button" href="javascript:void(0);">Tip with Metamask</a>
