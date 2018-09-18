@@ -23,4 +23,5 @@ You can contact me directly on telegram @hrdwrknvrstps
 
 ### Tip
 ETH : 0x25bd899e88ccbe8fbe2826a4d26b9708452dfc8d
+<br/>
 <a class="tip-button" href="javascript:void(0);">Tip with Metamask</a>
