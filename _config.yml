@@ -1,6 +1,6 @@
 title: Fills Alert Bot
 header_img: icon.svg
-description: "Alerts you on Telegram whenever your trade order gets filled/executed"
+description: "Alerts you on Telegram when your trade gets executed on Coinbase"
 email: fills_alert@protonmail.com
 url: "https://t.me/FillsAlertBot"
 
