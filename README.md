@@ -1,5 +1,5 @@
 ## Crypto Fills Alert Bot
-No need to keep separate price alerts for your crypto trades 😎. We will alert you whenever your trade gets executed on CoinbasePro 🤑!
+No need to keep price alerts for your crypto trades 😎. We will alert you whenever your trade gets executed on CoinbasePro 🤑!
 
 <img style="max-width: 380px;" src="finaldemo2.png">
 
