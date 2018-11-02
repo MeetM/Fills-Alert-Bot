@@ -1,4 +1,5 @@
 title: Fills Alert Bot
+header_img: icon.svg
 description: "Alerts you on Telegram whenever your trade order gets filled/executed"
 email: fills_alert@protonmail.com
 url: "https://t.me/FillsAlertBot"
