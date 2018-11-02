@@ -3,7 +3,7 @@ No need to keep price alerts for your crypto trades 😎. We will alert you when
 
 <img style="max-width: 380px;" src="botsc.jpg">
 
-### Setup Instructions and Demo
+## Setup Instructions and Demo
 **We are only requesting view permissions. This does not give us access to your private keys nor the ability move your funds.**
 
 This is just a one-time, 2 min setup procedure 🤓
@@ -19,13 +19,13 @@ To allow us to send you alerts on your CoinbasePro trades, you will need to gene
 7. Copy the API Secret shown on the dialog box and pass it to the bot. It will wait for API Key now
 8. Copy the API Key after closing the dialog box and pass it to the bot. If everything works, you are done! 
 
-#### Setup Walkthrough Video
+### Setup Walkthrough Video
 
 <iframe width="720" height="415" src="https://www.youtube.com/embed/URB3HmduDhA?mute=1" frameborder="0" allowfullscreen></iframe>
 
-### PS - Only supports Coinbase Pro currently. More exchanges coming soon.
+## PS - Only supports Coinbase Pro currently. More exchanges coming soon.
 
-### Privacy 
+## Privacy 
 (Last updated - 9/15/2018)
 
 - We do not store any personally identifiable information. 
@@ -34,11 +34,11 @@ To allow us to send you alerts on your CoinbasePro trades, you will need to gene
 - You can ask the bot to remove the API details and stop the alerts anytime.
 - The bot will never suggest or recommend you to make any trades (No pump and dump ever)
 
-### Support or Contact
+## Support or Contact
 
 You can contact me directly on telegram @hrdwrknvrstps
 
-### Tip
+## Tip
 ETH : 0x25bd899e88ccbe8fbe2826a4d26b9708452dfc8d
 <br/>
 <a class="tip-button" href="javascript:void(0);">Tip with Metamask</a>
