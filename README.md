@@ -23,6 +23,14 @@ To allow us to send you alerts on your CoinbasePro trades, you will need to gene
 
 <iframe width="720" height="415" src="https://www.youtube.com/embed/URB3HmduDhA?mute=1" frameborder="0" allowfullscreen></iframe>
 
+## Pricing
+
+Simple, open, fair pricing
+
+* Free 100 alerts per month. Post that, you will payment instructions
+* 0.01 ETH per month for unlimited alerts
+* Earn additional 50 alerts per referral via sharing options in the bot 
+
 ## PS - Only supports Coinbase Pro currently. More exchanges coming soon.
 
 ## Privacy 
@@ -37,8 +45,3 @@ To allow us to send you alerts on your CoinbasePro trades, you will need to gene
 ## Support or Contact
 
 You can contact me directly on telegram @hrdwrknvrstps
-
-## Tip
-ETH : 0x25bd899e88ccbe8fbe2826a4d26b9708452dfc8d
-<br/>
-<a class="tip-button" href="javascript:void(0);">Tip with Metamask</a>
