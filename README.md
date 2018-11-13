@@ -45,4 +45,4 @@ Simple, open, fair pricing
 
 ## Support or Contact
 
-You can contact me directly on telegram @hrdwrknvrstps
+You can contact me directly on telegram @hrdwrknvrstps or submit <a href="https://docs.google.com/forms/d/e/1FAIpQLScgSkJPefH4qzwJs0nQW-od-4oay5Sny0YCQDQIYhe4AircVA/viewform">this form</a> for any feedback or suggestions.
