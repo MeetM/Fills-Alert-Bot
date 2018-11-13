@@ -1,5 +1,7 @@
 No need to keep price alerts for your crypto trades 😎. We will alert you whenever your trade gets executed on CoinbasePro 🤑!
 
+**PS - THIS IS NOT A SIGNALS OR PUMP and DUMP BOT. WE WILL NEVER 🙅‍♂️ ADVERTISE, SPAM OR ADVICE YOU ON WHAT TO BUY OR SELL.**
+
 <img style="max-width: 380px;" src="botsc.jpg">
 
 ## Setup Instructions and Demo
