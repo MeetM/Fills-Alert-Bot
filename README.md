@@ -28,8 +28,8 @@ To allow us to send you alerts on your CoinbasePro trades, you will need to gene
 
 Simple, open, fair pricing
 
-* Free 50 alerts per month. (Post that, you will receive payment instructions)
-* 0.01 ETH per month for unlimited alerts
+* Free 100 alerts per month. (Post that, you will receive payment instructions)
+* 0.01 ETH per month for unlimited alerts (~$2)
 * Earn additional 50 alerts per share via sharing options in the bot 
 
 ## PS - Only supports Coinbase Pro currently. More exchanges coming soon.
