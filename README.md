@@ -35,7 +35,7 @@ Simple, open, fair pricing
 ## PS - Only supports Coinbase Pro currently. More exchanges coming soon.
 
 ## Privacy 
-(Last updated - 9/15/2018)
+(Last updated - 6/15/2019)
 
 - We do not store any personally identifiable information. 
 - We ask for "view" only API access. If you accidentaly give us API details with "trade" access, we will reject it.
